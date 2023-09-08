@@ -16,7 +16,7 @@
 ### Demo Bot:
 <a href="https://t.me/Mrkiller_filestore_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
-![Configs](https://graph.org/file/5dab1ebfd8b0dcb3bf5ac.jpg) 🤖
+![Configs](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
 
 - `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
 - `API_HASH` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
