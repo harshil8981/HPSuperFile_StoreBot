@@ -30,12 +30,6 @@
         "BOT_OWNER": {
             "description": "Bot Owner UserID"
         },
-        "SHORTLINK_URL": {
-            "description": "Url Shortner Link without https://"
-        },
-        "SHORTLINK_API": {
-            "description": "Url Shortner Api"
-        },
         "DATABASE_URL": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
         },
