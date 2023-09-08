@@ -83,7 +83,7 @@ banned_users - Get All Banned Users [Owner Only]
 👲 <b>Developed By</b>
 
 <p align="middle">
-<img src="https://github.com/harshil8981/HPSuperFile_StoreBot/assets/77227205/7870f993-ba28-463a-80ba-7293302480d9" width="150" height="150"><br>
+<img src="https://wallpapercave.com/wp/wp8674389.jpg" width="150" height="150"><br>
 <img src="https://badgen.net/badge/Name/harshil8981/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
 <a href="https://t.me/Hpbot_update"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
