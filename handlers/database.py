@@ -76,4 +76,4 @@ class Database:
         return banned_users
 
 
-db = Database(Config.DATABASE_URL, Mrkiller_filestore_bot)
+db = Database(Config.DATABASE_URL, "Mrkiller_filestore_bot")
